@@ -24,4 +24,4 @@ Function used in
 
 Data Structure Used: List
 ### Project Summary
- Here I user custom finder to get room status and all type of room details using roomid.i used h2 database in this project.
+ Here I have used custom finder to get room status and all type of room details.i have used h2 database in this project.
